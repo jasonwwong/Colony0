@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="160" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="mars_tiles" tilewidth="32" tileheight="32">
+  <image source="mars_tiles.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="241" name="mars_bg" tilewidth="32" tileheight="32">
+  <image source="mars_bg.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="245" name="ship_tiles" tilewidth="32" tileheight="32">
+  <image source="ship_tiles.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="501" name="mothership_tiles" tilewidth="32" tileheight="32">
+  <image source="mothership_tiles.png" width="512" height="192"/>
+ </tileset>
+ <tileset firstgid="597" name="cavern_tiles" tilewidth="32" tileheight="32">
+  <image source="cavern_tiles.png" width="512" height="480"/>
+ </tileset>
+ <layer name="collidable" width="160" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztWFtOAzEMdPeL/tMDVIJ7cBy4AT06f3TVRjXGj7GTlUrJSKtsXnaSdSaTJZqYmJj4n/i6Pvsd0dv14e+8fr/73V7W8XfuY+K+cDg/zyyVOC6396fl8hyX23vLH5VyWa+Vt/eXs/1XyqeklJMon7hfWN9Ow5YxwvcATxus+iidGIeeNbX4jdu16rV2I9MVWqwS2XyW2QMTY8C/UYMXk+i3yPIfkc1rUYxY5Xwecj5Znos0xUQd1W8QnUnImSVjRLObOft4fy9GZT6bTowFssaWzoraS3712qH2EB5cwfnKi+nsGZ8F0ueRtGVW10VrjJRrfJnxS2TbJ4pjRtpD7y4yj575GUT7ELlv3SMi/ZVBZY09P4h/b53RmNHsePdfT0Nscf9FbP3Vuzeq0xBU+kX3X6S/5NWI12SsSH/y/itjlMjfY4g+RFDVlohGvQdoGpsIm5eFTPte3af5I7JjRNZb47Xuv4iO82I+o/8QfrN8b6FBK/y5xX8x9D4ata/oQc8fn69nX+vfIMc94n5r1ffYjvjM0iHRmDyg7aPxoeWcvzX7yDir8xi1Ltb8tH6aX0TnkchH/35avmf/EzA2jt67+mgeqsxTsxv5zY6rIXNO9MaI9t2q/NeA3Jt7eW60Huzx4+FzITotlzR7RkT+NWR4raLJPX+VdZXj4+NcgcRslcOI2SDC9n2PT2sMEVejfj3wOMzyj8f7FiJdV9GzFkadH5b+a8js3cxeq2rJEWOo8MQIPuyxb+leD+g4D9cnq/88P5HOk/1aPhPD0V6V+YhXrPKMDtTqEbuRbuGo8OHHMlb3RsjwdnY+KL95ulDaaXkrZmW+ko7a/xXezO7Pqk5c13CNtfflZ3q6nsEjdOqjpRzfkZiwEA==
+  </data>
+ </layer>
+</map>

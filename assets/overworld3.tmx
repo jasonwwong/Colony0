@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="160" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="mars_tiles" tilewidth="32" tileheight="32">
+  <image source="mars_tiles.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="241" name="mars_bg" tilewidth="32" tileheight="32">
+  <image source="mars_bg.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="245" name="ship_tiles" tilewidth="32" tileheight="32">
+  <image source="ship_tiles.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="501" name="mothership_tiles" tilewidth="32" tileheight="32">
+  <image source="mothership_tiles.png" width="512" height="192"/>
+ </tileset>
+ <layer name="collidable" width="160" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztWEluwzAMZHJq7s0DArT/6P9/1FsTJEIIlsuQlAE31QCGrI2UZGo0MtHCwsLC/8T34zkdiL4eD3/n9afD7/ayjr9zHwv7wvn6vLNU4nJ8vr8d78/l+Hwf+YtSLuu18vH+cbX/SfmUlHIS5Qv7hfXtNGwZI3wP8HTAqo/ShXnorKnFb9yuVa+1m5neoMUqkc1nmT2wMAf8Gw14MYl+iyz/Edm8FsWIVc7nIeeT5blIUyzUUf0G0ZmEnFkyRjS7mbOP9/diVOaz6cJcIGts6ayoveRXrx1qD+HBGzhfeTGdPeOzQPq8krbM6rpojZFyjS8zfols+0RxzEh76N1F5tEzP4NoHyL3rT0i0l8ZVNbY84P499YZjRnNjnf/9TTEFvdfxNZfvXujOg1BpV90/0X6S16NeE3GivQn778yRon8PYboQwRVbYlo1D1A09hE2LwsZNp3dZ/mj8iOEVlvjde6/yI6zov5jP5D+M3yvYUGrfDnFv/F0Pto1L6iBz1/fL6efa3/gBz3jPutVd+xHfGZpUOiMXlA20fjQ8s5f2v2kXFW5zFrXaz5af00v4jOI5GP/v2MfGf/EzA2ju5dfTYPVeap2Y38Zsc1kDknujGifbcq/w0g9+Yuz83Wgx0/HjpnBNrf8ifRmYeF7veT4+PjvAGJ2SqHEbNBhO37jk9rDBFXo349ZHg0w/ueP8T/DMw6Pyz9N5DZu5m9VtWSM8ZQ4Ymt+LCre7N+NZwfT3Y+6PzIGIeWz8RwtFdlPuIVqzyjA7V6xG6kWzgqfNjh6yzvIv4680H5zdOF0s7IWzEr85V0Ng9U9BW6P6s6McIMnfpqKccPQAyqIQ==
+  </data>
+ </layer>
+</map>

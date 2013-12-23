@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="34" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="mothership_tiles" tilewidth="32" tileheight="32">
+  <image source="mothership_tiles.png" width="512" height="192"/>
+ </tileset>
+ <layer name="collidable" width="34" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztllEOgCAMQzkE19j9r6cfLlmadoGPMT5sQoQ54GnqcIxfUfNt9l1nGBuJ77ZsvgED5isGjKkctk7MjTkuxbvyHnbnMm7GYXCvWhP6yNrJwbxTLYN+5oGKvVe/l1NS/ujkYDXhlNAfqm5WMKlnZvufEvPpLXXsBg7ljcr64Z7EeLeQq0vs/GU1hZ3f7N9Cne/ZOj5+AHrTGKw=
+  </data>
+ </layer>
+</map>
